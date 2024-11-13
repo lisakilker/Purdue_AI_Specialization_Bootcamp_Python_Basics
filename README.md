@@ -1,0 +1,2 @@
+# Purdue_AI_Specialization_Bootcamp_Python_Basics
+Assessments 1 and 2
